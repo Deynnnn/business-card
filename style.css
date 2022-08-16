@@ -1,0 +1,38 @@
+body{
+	margin: 20px;
+	font-family: Verdana, Geneva, Tahoma, sans-serif ;
+	font-style: italic;
+	letter-spacing: 1px;
+
+}
+
+.card{
+	background-color: #ddebf8;
+	color: #2b2839;
+
+	width: 400px;
+
+    display: flex;
+    justify-content: space-around;
+    
+    margin: 0 auto;
+    padding: 20px;
+
+    text-align: center;
+
+}
+
+.avatar{
+	width: 150px;
+
+}
+
+.border{
+	border-bottom: 6px solid #d8cefe;
+}
+
+.con{
+	font-size: 12px;
+	font-style: sans-serif;
+	text-align: right;
+}
